@@ -5,6 +5,7 @@
     * [任务1 Linux操作系统简介](Chapter1/Section1/1.md)
     * [任务2 安装VM虚拟机](Chapter1/Section2/1.md)
     * [任务3 安装CentOS7](Chapter1/Section3/1.md)
+    * [任务4 使用YUM命令](Chapter1/Section4/1.md)
 * [第二章 Linux文件与目录管理 ](Chapter2/ReadMe.md)
     * [任务1 浏览目录类命令](Chapter2/Section1/1.md)
     * [任务2 目录操作类命令](Chapter2/Section2/1.md)
